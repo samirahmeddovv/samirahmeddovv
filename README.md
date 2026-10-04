@@ -1,4 +1,3 @@
-## Hi there 
 ### Hi there 👋 I'm Samir
 
 * 💻 I'm currently studying Information Technologies at Azerbaijan State University of Economics ( 2nd year )
